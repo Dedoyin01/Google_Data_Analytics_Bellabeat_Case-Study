@@ -1,2 +1,2 @@
-# practising-github
-Just learning
+# CASE STUDY: Bellabeat Fitness Data Analysis
+
